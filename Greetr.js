@@ -14,7 +14,7 @@
     }
     //*** */
     //variables on closures
-      
+      language = ['en', 'es', 'pt']
 
     /********* */
 
